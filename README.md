@@ -16,10 +16,6 @@ The marketplace is currently a preview. The repository has a local demo with fic
 
 An embedded version of 2048, with game logic, display updates and input handling running on a microprocessor.
 
-### [Java Swing application](https://github.com/daviddoherty10/Java-Swing-Project)
-
-A desktop application that loads transaction data, calculates statistics and lets users view and edit records. The code separates file handling, calculations and the Swing interface.
-
 ## Other work
 
 - [C-2048](https://github.com/daviddoherty10/C-2048): a C implementation of the tile game.
